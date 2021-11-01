@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": 377514916,
+      "name": "appHCJTreinoOnline",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/hiltoncsj/appHCJTreinoOnline",
+      "description": "Criação do App de Treino Online da HCJ com Kotlin, Gradle, MySQL"
+    },
+    {
+      "id": 371555305,
+      "name": "Bootcamp-DIO-Santandar",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/Bootcamp-DIO-Santandar",
+      "description": "Projeto criado para o Bootcamp DIO - Santander",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 377508115,
+      "name": "bootcampDev2JavaGFT",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/bootcampDev2JavaGFT",
+      "description": "Aulas e projeto com aplicação dos conteúdos aprendidos",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 377509575,
+      "name": "bootcampDev2NETGFT",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/bootcampDev2NETGFT",
+      "description": "Aulas e projeto com conteúdos adquiridos",
+      "stargazers_count": 0,
+      "language": "C#"
+    },
+    {
+      "id": 422902717,
+      "name": "bootcampInterMobileDeveloper",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/bootcampInterMobileDeveloper",
+      "description": "Bootcamp Inter - Kotlin",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 379689064,
+      "name": "bootcampSantanderMobileDeveloper",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/bootcampSantanderMobileDeveloper",
+      "description": "Santander Bootcamp Mobile Developer exercise and projects",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 390535834,
+      "name": "curriculo",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/curriculo",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Empty"
+    },
+    {
+      "id": 372637582,
+      "name": "curso-git-github",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/curso-git-github",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Empty"
+    },
+    {
+      "id": 114305479,
+      "name": "cursomc",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/cursomc",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 377514022,
+      "name": "dadoRecife",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/dadoRecife",
+      "description": "Exercício de reprojetar o site dado.recife.br com a finalidade de aperfeiçoar a leitura dos gráficos de Covid PE",
+      "stargazers_count": 0,
+      "language": "Empty"
+    },
+    {
+      "id": 373384514,
+      "name": "exemplo-gradle",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/exemplo-gradle",
+      "description": "Curso de Java com Gradle usando Spring",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 373385858,
+      "name": "exemplo-maven",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/exemplo-maven",
+      "description": "Adicionado Projeto Java com Maven",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 378235353,
+      "name": "ExercicioPython",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/ExercicioPython",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "Python"
+    },
+    {
+      "id": 387542187,
+      "name": "nodejs",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/nodejs",
+      "description": "Exercícios de Node.js",
+      "stargazers_count": 0,
+      "language": "JavaScript"
+    },
+    {
+      "id": 416733655,
+      "name": "R",
+      "owner": {
+        "login": "hiltoncsj",
+        "avatar_url": "https://avatars.githubusercontent.com/u/34551228?v=4"
+      },
+      "html_url": "https://github.com/hiltoncsj/R",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "R"
+    }
+  ]
+}
